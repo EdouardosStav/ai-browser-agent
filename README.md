@@ -36,13 +36,14 @@ As part of my journey into AI automation, I wanted to:
 
 ---
 
-## 📸 Key Screenshots
+## 🖼️ Key Screenshots
+
 | WebUI Running | Gemini Setup |
 |---------------|--------------|
 | ![WebUI Agent Settings](./assets/webui-agent-settings.png) | ![LLM Settings](./assets/webui-gemini-settings.png) |
 
 | Google Task | LinkedIn Task |
-|-------------|---------------|
+|-------------|----------------|
 | ![Google Result Parsing](./assets/ai-agent-google-result.png) | ![LinkedIn Extraction](./assets/linkedin-search-job.png) |
 
 ---
