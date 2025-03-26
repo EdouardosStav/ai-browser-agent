@@ -1,0 +1,166 @@
+# -----------------------------
+# 🐍 Python-related
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+test_env/
+myenv/
+
+# Package & build
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Pip / Poetry / PDM / Pipenv
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+pdm.lock
+.pdm.toml
+.pdm-python
+.pdm-build/
+__pypackages__/
+
+# Requirements file (optional if not using it as source of truth)
+requirements.txt
+
+# -----------------------------
+# 🧪 Testing & Coverage
+# -----------------------------
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# -----------------------------
+# 🧪 Type Checking
+# -----------------------------
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# -----------------------------
+# 🧠 Data Science & Notebooks
+# -----------------------------
+.ipynb_checkpoints
+
+# -----------------------------
+# 🌐 Web & Frameworks
+# -----------------------------
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy
+
+# Sphinx docs
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# -----------------------------
+# 🧠 IDE & Tooling
+# -----------------------------
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+.ropeproject
+
+# -----------------------------
+# 🐳 Docker
+# -----------------------------
+docker-compose
+Dockerfile*
+data/
+
+# -----------------------------
+# 🧪 Supervisor & Runtime
+# -----------------------------
+supervisord.conf
+entrypoint.sh
+
+# -----------------------------
+# 🛡️ Secrets / Private / Personal
+# -----------------------------
+.env
+.env.example
+*.pem
+*.key
+*.pkl
+*.cfg
+*.conf
+secrets.py
+browser_cookies.json
+cookies.json
+AgentHistory.json
+AgentHistoryList.json
+
+# -----------------------------
+# 📁 Media, Debug, Trash
+# -----------------------------
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.pdf
+temp/
+tmp/
+.DS_Store
+
+# -----------------------------
+# 🗃️ Project-specific
+# -----------------------------
+agent_history
+cv_04_24.pdf
+private_example.py

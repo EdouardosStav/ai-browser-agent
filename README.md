@@ -115,20 +115,21 @@ Built as part of a course by **NextWork**. Modified, extended, and documented fo
 **Edouardos Stavrakis**  
 AI Enthusiast | Software Engineer | DevOps Explorer
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/your-profile/) or check my other projects.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/edouardosstavrakis/) or check my other projects.
 
 ---
 
-## 🗂 Folder Structure (simplified)
-```
-├── webui.py
-├── .env
-├── requirements.txt
-├── assets/
-│   ├── webui-agent-settings.png
-│   ├── webui-gemini-settings.png
-│   ├── ai-agent-google-result.png
-│   ├── linkedin-search-job.png
+## 📂 Folder Structure (simplified)
+```text
+ai-browser-agent/
+├── assets/                    # Key screenshots and demo images
+├── src/                       # Main application code
+├── tests/                     # Test cases
+├── .env                       # Environment variables
+├── README.md                  # Project documentation
+├── requirements.txt           # Python dependencies
+├── docker-compose.yml         # Docker setup
+├── webui.py                   # App runner
 ```
 
 ---
@@ -139,4 +140,13 @@ This is a **prototype**. It worked perfectly on my machine with a Chrome session
 ---
 
 ## ⭐ Like it?
-Give it a ⭐ and fork it for your own automations!
+Give it a ⭐ and fork it for your own automation
+
+---
+
+## 🔗 Attribution
+Codebase built on top of [Browser Use WebUI](https://github.com/browser-use/web-ui/tree/main)  
+To explore the base project or contribute upstream:
+```bash
+git clone https://github.com/browser-use/web-ui.git
+```
