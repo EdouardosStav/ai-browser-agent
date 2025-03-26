@@ -40,11 +40,11 @@ As part of my journey into AI automation, I wanted to:
 
 | WebUI Running | Gemini Setup |
 |---------------|--------------|
-| ![WebUI Agent Settings](./assets/webui-agent-settings.png) | ![LLM Settings](./assets/webui-gemini-settings.png) |
+| ![WebUI Agent Settings](.assets/webui-launch.png) | ![LLM Settings](.assets/webui-agent-settings.png) |
 
 | Google Task | LinkedIn Task |
 |-------------|----------------|
-| ![Google Result Parsing](./assets/ai-agent-google-result.png) | ![LinkedIn Extraction](./assets/linkedin-search-job.png) |
+| ![Google Result Parsing](./assets/google-openai-task-start.png) | ![LinkedIn Extraction](./assets/scroll-for-links-task.png) |
 
 ---
 
