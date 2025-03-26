@@ -40,7 +40,7 @@ As part of my journey into AI automation, I wanted to:
 
 | WebUI Running | Gemini Setup |
 |---------------|--------------|
-| ![WebUI Agent Settings](.assets/webui-launch.png) | ![LLM Settings](.assets/webui-agent-settings.png) |
+| ![WebUI Agent Settings](./assets/webui-launch.png) | ![LLM Settings](./assets/webui-agent-settings.png) |
 
 | Google Task | LinkedIn Task |
 |-------------|----------------|
