@@ -59,7 +59,7 @@ Prompt: Log in to Gmail and send a message to X with a meme attached.
 ---
 
 ## ⚙️ How To Run It Yourself
-### 🧩 Prerequisites
+### 🧹 Prerequisites
 - Windows OS
 - Python (3.10+), Git, Pip
 - `uv` (or `pip install uv`)
@@ -113,7 +113,7 @@ Built as part of a course by **NextWork**. Modified, extended, and documented fo
 
 ## 📌 Author
 **Edouardos Stavrakis**  
-AI Enthusiast | Software Engineer | DevOps Explorer
+AI Engineer | Tech Consultant | Founder @ NegotAI | Building AI-Powered SaaS
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/edouardosstavrakis/) or check my other projects.
 
